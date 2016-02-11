@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RegisterAndLocate</string>
+    <string name="action_settings">Settings</string>
+    <string name="userRegistration">Create Account</string>
+    <string name="uR_FTF">First Things First</string>
+    <string name="uR_PI">Personal Information</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="fullname">Full Name</string>
+    <string name="Location">Country</string>
+    <string name="createAccount">Create Account and Continue</string>
+    <string name="createAccountScdStep">Select a Picture</string>
+    <string name="userHomeLabel">Your Current Location</string>
+    <string name="googleAPI">AIzaSyB5yBUpdYdP-tTDVTkSFbwbkKKWtsa4GI0</string>
+    <string name="title_activity_user_location">Your Current Location</string>
+    <string name="title_select_pic">Set a Display Picture</string>
+    <string name="select_from_gallery">Select from Gallery</string>
+    <string name="capture_picture">Capture a Picture</string>
+    <string name="sample_picture">Sample Picture</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_select_picture">SelectPicture</string>
+    <string name="title_activity_capture_picture">CapturePicture</string>
+    <string name="Continue_to_Maps">Continue</string>
+    <string name="title_activity_select_gallery">SelectGallery</string>
+</resources>
